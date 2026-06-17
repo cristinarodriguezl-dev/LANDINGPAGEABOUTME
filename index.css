@@ -1,5 +1,16 @@
-#imgtwocats {width: 300px;}
-#imghobbies {width: 500px;}
-#imgeducation {width: 350px;}
-#imgmyhistory {width: 300px;}
-#imgjaen {width: 500px};
+#imgtwocats {width: 250px; border-radius: 30px;}
+#imghobbies {width: 500px; }
+#imgeducation {width: 350px; border-radius: 30px;}
+#imgmyhistory {width: 300px; border-radius: 10px;}
+#imgjaen {width: 500px;border-radius: 80px;}
+
+header {text-align: center; background-color: #f4fcff; color: #1d72bb; padding: 10px;}
+footer {text-align: center; background-color: #f4fcff; color: #1d72bb; padding: 20px;}
+nav {text-align: center; background-color: #1d72bb; color: #f4fcff; padding: 10px;}
+body {background-color: #f4fcff; margin: 100px; font-family: quicksand, sans-serif; font-size: 18px; line-height: 1.6;}
+
+
+.aboutme {border:#e95353 2px solid; border-radius: 20px; padding: 20px; margin: 20px; background-color: #ffffff;}
+.hobbies {border:#9add88 2px solid; border-radius: 20px; padding: 20px; margin: 20px; background-color: #ffffff;}
+.school {border:#d3a33a 2px solid; border-radius: 20px; padding: 20px; margin: 20px; background-color: #ffffff;}
+.myhistory {border:#649dcf 2px solid; border-radius: 20px; padding: 20px; margin: 20px; background-color: #ffffff;}   
