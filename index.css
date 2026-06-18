@@ -6,11 +6,14 @@
 
 header {text-align: center; background-color: #f4fcff; color: #1d72bb; padding: 10px;}
 footer {text-align: center; background-color: #f4fcff; color: #1d72bb; padding: 20px;}
-nav {text-align: center; background-color: #1d72bb; color: #f4fcff; padding: 10px;}
+nav {text-align: center; background-color: #1d72bb; color: #f4fcff; padding: 10px; text-decoration: none; font-weight: bold;}
+nav a {color: #f4fcff; text-decoration: none; font-weight: bold; padding: 10px;}
+nav a:hover {color: #ffffff; text-decoration: underline; font-weight: bold; padding: 30px;}
 body {background-color: #f4fcff; margin: 100px; font-family: quicksand, sans-serif; font-size: 18px; line-height: 1.6;}
 
 
 .aboutme {border:#e95353 2px solid; border-radius: 20px; padding: 20px; margin: 20px; background-color: #ffffff;}
-.hobbies {border:#9add88 2px solid; border-radius: 20px; padding: 20px; margin: 20px; background-color: #ffffff;}
+.hobbies {border:#925ada 2px solid; border-radius: 20px; padding: 20px; margin: 20px; background-color: #ffffff;}
 .school {border:#d3a33a 2px solid; border-radius: 20px; padding: 20px; margin: 20px; background-color: #ffffff;}
 .myhistory {border:#649dcf 2px solid; border-radius: 20px; padding: 20px; margin: 20px; background-color: #ffffff;}   
+.origin {border:#44b826 2px solid; border-radius: 20px; padding: 20px; margin: 20px; background-color: #ffffff;}
